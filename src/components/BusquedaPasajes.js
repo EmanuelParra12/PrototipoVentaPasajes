@@ -22,6 +22,8 @@ function BusquedaPasajes() {
         <select className="select"> {/* Aplica el estilo del selector */}
           <option value="ciudad1">Bariloche</option>
           <option value="ciudad2">Córdoba</option>
+          <option value="ciudad3">Salta</option>
+          <option value="ciudad4">San Luis</option>
         </select>
         
         <label>Partida</label>
